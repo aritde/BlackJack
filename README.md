@@ -4,8 +4,8 @@ This program emulates a simple version of the BlackJack Game.
 
 **Rules**
 Rules followed for the implementation:
-  	 	1. Each player gets two cards initially. 
-  		2. Scoring points are assigned as it is in the actual game.
+  	 	1. Each player gets two cards initially. \n
+  		2. Scoring points are assigned as it is in the actual game.\n
   		3. For each round, each player can choose to “hit” or “stay”.
   		4. If the players chooses to hit, calculate the sum of cards in his hand. If it exceeds 21, he/she loses.Else, other player continues.
   		5. This project assumes that both the players do not continue to choose "Stay" indefinitely.
