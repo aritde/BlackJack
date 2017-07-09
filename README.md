@@ -6,7 +6,7 @@ This program emulates a simple version of the BlackJack Game.
 
 Rules followed for the implementation:
 
-  	 	1. Each player gets two cards initially. 
+      1. Each player gets two cards initially. 
       
       2. Scoring points are assigned as it is in the actual game.
       
