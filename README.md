@@ -17,6 +17,6 @@ Rules followed for the implementation:
 8. Only 1 deck of cards is considered rather than multiple decks.
 9. For the sake of simplicity, the second player's card(opponent) is not hidden while printing in order to better 
    understand how the game is progressing. 
-10.In order to view the player's hands after every turn, feel free to uncomment the line 74/75/95/96.
+10.In order to view the player's hands after every turn, feel free to uncomment the line *74/75/95/96*.
 11.In case of an invalid input character, the user will skip the next turn of the other player in order to continue with a 
    fair game. 
