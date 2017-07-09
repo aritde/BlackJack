@@ -3,7 +3,7 @@ package blackjack;
 import java.util.Scanner;
 /* Rules followed for the implementation:
  * 	 	1. Each player gets two cards initially. 
- * 		2. Scoring points are assigned as mentioned in the provided document
+ * 		2. Scoring points are assigned as it is in the actual game.
  * 		3. For each round, each player can choose to “hit” or “stay”.
  * 		4. If the players chooses to hit, calculate the sum of cards in his hand. If it exceeds 21, he/she loses.Else, other player continues.
  * 		5. I have assumed that both the players do not continue to choose "Stay" indefinitely.
@@ -13,8 +13,8 @@ import java.util.Scanner;
  * 		8. I have considered only 1 deck of cards rather than multiple decks.
  * 		9. For the sake of simplicity, I am not hiding any of the player's card(opponent) while printing in order to better 
  * 		   understand how the game is progressing. 
- *     10. In order to view the player's hands after every turn, feel free to uncomment the line 74/75/95/96.
- *     11. In case of an invalid input character, I have considered that the user will skip the next turn of the other player in order to continue with a fair game. 
+ *              10. In order to view the player's hands after every turn, feel free to uncomment the line 74/75/95/96.
+ *              11. In case of an invalid input character, I have considered that the user will skip the next turn of the other player in order to continue with a fair game. 
  */
 public class Tester {
 	
